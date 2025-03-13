@@ -1,0 +1,29 @@
+val-town-landing-page/
+├── public/
+│   ├── index.html
+│   └── ...
+├── src/
+│   ├── components/
+│   │   ├── StoaOfAttalos.js
+│   │   ├── Garden.js
+│   │   ├── Fountain.js
+│   │   ├── Butterfly.js
+│   │   └── ...
+│   ├── scenes/
+│   │   ├── MainScene.js
+│   │   └── ...
+│   ├── utils/
+│   │   ├── three-utils.js
+│   │   └── ...
+│   ├── assets/
+│   │   ├── models/
+│   │   │   ├── stoa-of-attalos.glb
+│   │   │   └── ...
+│   │   ├── textures/
+│   │   │   ├── ...
+│   │   └── ...
+│   ├── index.js
+│   └── ...
+├── package.json
+├── README.md
+└── ...
